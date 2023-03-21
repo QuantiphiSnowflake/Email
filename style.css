@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica SIL');
+@import "compass/css3";
+
+
+html, body, [class*="css"]  {
+   font-family: 'Abyssinica SIL';
+}
+
+.element{
+   font-size: 30px;
+}
